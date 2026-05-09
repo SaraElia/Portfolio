@@ -2,9 +2,9 @@
 
 ### Work experience
 BI Developer @Mediterranean Shipping Company
-• Contributing to enterprise data management and analytics initiatives in a global logistics company, using Agile methodologies 
-• Optimizing ETL pipelines and reporting solutions to improve data availability for business 
-• Participating in data platform migration within a Microsoft-based data environment
+• Contributing to enterprise data management and analytics initiatives in a global logistics company, using Agile methodologies<br />
+• Optimizing ETL pipelines and reporting solutions to improve data availability for business<br />
+• Participating in data platform migration within a Microsoft-based data environment<br />
 
 Data & AI Consultant @Accenture
 • Designed and delivered data products for a banking client within a data mesh architecture, using Witboost (GCP, Airflow) and Palantir 
